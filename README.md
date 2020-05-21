@@ -57,10 +57,13 @@ app.py: Python flask app that serves out predictions (inference) about housing p
 Dockerfile: Dockerfile for building the image
 make_prediction.sh: Send a request to the Python flask app to get a prediction for docker and kubernetes
 Makefile: includes instructions on environment setup and lint tests
+model_data folder: housing data
+
 run_docker.sh: file to be able to get Docker running, locally
 run_kubernetes.sh: file to run the app in kubernetes
 upload_docker.sh: file to upload the image to docker
 Readme.md: this file
 output_txt_files folder: contains output txt files from docker and kubernetes predictions
+
 ```
 
