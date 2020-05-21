@@ -1,7 +1,5 @@
 # Operationalize-a-Machine-Learning-Microservice-API
-[![CircleCI](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg&circle-token=<YOUR_STATUS_API_TOKEN>)](<LINK>)
-https://app.circleci.com/pipelines/github/bijayshrestha01/Operationalize-a-Machine-Learning-Microservice-API
-[![CircleCI](https://circleci.com/gh/bijayshrestha01/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)]
+![CircleCI](https://circleci.com/gh/bijayshrestha01/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)
 ## Summary
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. You are given a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. 
 
