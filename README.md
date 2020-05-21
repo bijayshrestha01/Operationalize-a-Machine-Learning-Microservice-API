@@ -58,7 +58,7 @@ Dockerfile: Dockerfile for building the image
 make_prediction.sh: Send a request to the Python flask app to get a prediction for docker and kubernetes
 Makefile: includes instructions on environment setup and lint tests
 model_data folder: housing data
-
+requirements.txt: txt file that contains libraries that need to be installed
 run_docker.sh: file to be able to get Docker running, locally
 run_kubernetes.sh: file to run the app in kubernetes
 upload_docker.sh: file to upload the image to docker
